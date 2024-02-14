@@ -22,7 +22,3 @@ I'm always open to connecting with fellow enthusiasts, learners, and professiona
 - **Instagram:** [Follow me](https://www.instagram.com/simplii_harsh/)
 
 Looking forward to connecting with like-minded individuals and exploring the endless possibilities of coding and tech together!
-
-<div align="center">
-  <img src="https://your-other-image-url.com/your-other-image.png" alt="Coding" width="500px">
-</div>
