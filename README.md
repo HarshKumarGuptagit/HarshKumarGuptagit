@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Harsh Kumar Gupta 
 
-Welcome to my GitHub! I'm a passionate Front End Developer and Analyst, currently exploring the exciting world of Data Analysis.
+Welcome to my GitHub! I'm a passionate Data Analyst
 
 ## 🌱 Currently Learning
 
@@ -10,9 +10,13 @@ I'm currently focusing on enhancing my skills in Data Analysis, diving deep into
 
 ## 🔧 Skills & Tools
 
-- **Programming Languages:** Python, JavaScript
-- **Front-end:** HTML, CSS, React Native
-- **Tools:** SQL Workbench, Tableau, Excel, PowerPoint
+- **SQL** : Sub-queries, Views, Window Functions, Group By, Stored Procedure, Triggers
+- **Python** : Pandas, NumPy, Seaborn, Matplotlib, MySQL-connector-python, SQL alchemy
+- **Tableau** : Data Blending, Dashboards and Stories, Charts, Calculated Fields, Groups & Sets
+- **Excel**: Pivot Table, Pivot Charts, Excel Functions, Lookup Functions, Index-Match, Data Validation
+- **DATABASES**: MySQL, PostGre SQL, MongoDB
+- **GitHub** | **Figma** | **PowerPoint** | **FRONT-END DEVELOPMENT** | **React Native**
+
 
 ## 🤝 Let's Connect
 
