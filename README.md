@@ -19,6 +19,5 @@ I'm currently focusing on enhancing my skills in Data Analysis, diving deep into
 I'm always open to connecting with fellow enthusiasts, learners, and professionals. Feel free to reach out to me via:
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harshkumargupta49/)
-- **Instagram:** [Follow me](https://www.instagram.com/simplii_harsh/)
 
 Looking forward to connecting with like-minded individuals and exploring the endless possibilities of coding and tech together!
