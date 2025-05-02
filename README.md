@@ -1,27 +1,30 @@
+# 👋 Hello, I'm Harsh Kumar Gupta
 
+Welcome to my GitHub! I'm an **Analytics Engineer** passionate about turning data into powerful insights and dashboards.
 
-# 👋 Hello, I'm Harsh Kumar Gupta 
+## 🌱 Currently Focusing On
 
-Welcome to my GitHub! I'm a passionate Data Analyst
-
-## 🌱 Currently Learning
-
-I'm currently focusing on enhancing my skills in Data Analysis, diving deep into tools and techniques for extracting insights from data.
+Enhancing data pipelines, sync procedures, and business-facing dashboards using modern data stack tools.
 
 ## 🔧 Skills & Tools
 
-- **SQL** : Sub-queries, Views, Window Functions, Group By, Stored Procedure, Triggers
-- **Python** : Pandas, NumPy, Seaborn, Matplotlib, MySQL-connector-python, SQL alchemy
-- **Tableau** : Data Blending, Dashboards and Stories, Charts, Calculated Fields, Groups & Sets
-- **Excel**: Pivot Table, Pivot Charts, Excel Functions, Lookup Functions, Index-Match, Data Validation
-- **DATABASES**: MySQL, PostGre SQL, MongoDB
-- **GitHub** | **Figma** | **PowerPoint** | **FRONT-END DEVELOPMENT** | **React Native**
+- **Languages & Querying:** Python, SQL, PostgreSQL  
+- **Data Engineering:** dbt, BigQuery, CodeCommit, APIs, ETL from CRM & Ad platforms (Meta Ads)  
+- **Visualization & Analytics:** Google Sheets, Dashboards, Data Modeling, Business Intelligence  
+- **Other Tools:** GitHub, Git, Excel, Figma, PowerPoint
 
+## 🌟 Interests
+
+- Data science and the latest trends in AI & machine learning  
+- Building tools and projects that can help others solve real-world problems  
+- Exploring new technologies and learning new skills  
+- Passionate about personal growth, productivity, and independence  
+- Enjoy solving complex problems and sharing knowledge with others
+
+## 💬 Quote I Live By
+
+*“Be so independent that your success doesn't require permission.”*
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow enthusiasts, learners, and professionals. Feel free to reach out to me via:
-
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harshkumargupta49/)
-
-Looking forward to connecting with like-minded individuals and exploring the endless possibilities of coding and tech together!
