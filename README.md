@@ -16,7 +16,7 @@ Specializing in cloud-native ETL/ELT systems across **AWS** and **GCP**, I build
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://YOUR-PORTFOLIO-LINK">
+  <a href="https://portfolio-website-alpha-five-99.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 
@@ -57,7 +57,7 @@ Specializing in cloud-native ETL/ELT systems across **AWS** and **GCP**, I build
 ---
 
 <div align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK">
+  <a href="https://portfolio-website-alpha-five-99.vercel.app/">
     <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 
