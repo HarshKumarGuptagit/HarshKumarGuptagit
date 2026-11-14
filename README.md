@@ -2,14 +2,23 @@
 
 <div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 
-  <b>Analytics Engineer</b> | <b>Data Infrastructure, Pipelines & Visualization</b>
+  <b>Data Engineer</b> | <b>Cloud Infrastructure, Event-Driven Pipelines & Scalable Architecture</b>
 </div>
 
 <br/>
 
-I build the bridge between **"We have data"** and **"We have answers."** 
+I design and build scalable, resilient data platforms. 
 
-I am a full-cycle Analytics Engineer covering the entire data spectrum: from containerized ingestion (Docker/Python) and warehousing (BigQuery) to transformation (dbt) and visualization (Tableau). I turn complex logs into clear narratives.
+Specializing in cloud-native ETL/ELT systems across **AWS** and **GCP**, I build the infrastructure that makes data reliable and actionable. From event-driven serverless architectures to high-frequency sensor data processing, my focus is on crafting Medallion architectures that guarantee 99.99% accuracy while optimizing cloud processing costs.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshKumarGuptagit&hide_border=true&theme=radical" alt="GitHub Contribution Streak" />
+</div>
 
 ---
 
@@ -17,18 +26,19 @@ I am a full-cycle Analytics Engineer covering the entire data spectrum: from con
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Orchestration & Containerization** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-| **Data Transformation** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Cloud & Warehousing** | ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=google-looker&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| **Data Processing** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-000000?style=flat&logo=polars&logoColor=white) |
+| **Orchestration & DevOps** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+| **Warehousing & Lakehouses** | ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) |
+| **Data Modeling** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 
 ---
 
 ## 🔭 What I'm Building Now
-* **End-to-End ELT Pipelines:** Automating data ingestion using **Python** and **Airflow** to feed BigQuery.
-* **Containerized Workflows:** Ensuring reproducibility of data environments using **Docker**.
-* **Data Quality Frameworks:** Implementing testing and documentation within **dbt** to ensure data reliability.
+- **Event-Driven ETL Engineering:** Building serverless telemetry data pipelines using **AWS Lambda**, **EventBridge**, and **S3** to process IoT/sensor data.
+- **Medallion Architectures:** Designing highly scalable Bronze, Silver, and Gold data layers to manage everything from staging to analytics-ready marts.
+- **High-Frequency Data Processing:** Utilizing **Polars** and **PyArrow** to process massive streams of sensor data while maintaining 99.99% accuracy across the analytics layer.
+- **Cost & Query Optimization:** Automating deployments via CI/CD and aggressively tuning data models (partitioning, clustering) to slash cloud processing costs and execution times.
 
 ---
 <div align="center">
