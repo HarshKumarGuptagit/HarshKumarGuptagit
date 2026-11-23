@@ -1,4 +1,4 @@
-# Hi, I'm Harsh Kumar Gupta 👋
+# Hi, I'm Harsh Kumar Gupta 👋 
 
 **Data Engineer** specializing in **Apache Spark**, **dbt Core**, **Apache Airflow**, **AWS**, **Google Cloud Platform**, and modern **Lakehouse Architectures**.
 
